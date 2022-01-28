@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liam O'Connor
+- 👋 Hi, I’m Liam O'Connor, a Physicist and programmer based in Alberta, Canada.
 - 👀 I’m interested in Physics, Data Science, Remote Sensing, Arduino Projects, Automation, Green energy, Electric Vehicles, 3D printing, Brain Computer Interfaces, Crypto.....
 - 🌱 I’m currently learning Pygame, Flask, Django, Pandas, and other useful python modules
 - 💞️ I’m looking to collaborate on any new exciting tech projects, reach out!!
